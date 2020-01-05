@@ -1,0 +1,8 @@
+1. nano /etc/shadowsocks.json
+
+2. 修改配置
+
+3. ctrl + x  
+
+4. 按y保存退出
+

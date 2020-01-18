@@ -1,0 +1,8 @@
+1. win + shift + s 	截屏
+
+2. alt + tab		切换任务
+
+3. win + tab		桌面管理界面
+
+4. ctrl + alt + s	窗口截屏，可以复制色号
+

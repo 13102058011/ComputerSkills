@@ -7,5 +7,11 @@
 	2. alt+b 运行html文件
 	3. alt+shift+b切换不同浏览器运行
 
+3.自动格式化
+	1. 安装插件Beautify
+	2. 打开要格式化的文件
+	3. F1
+	4. Beautify file 
+	5. 选择你要格式化的代码类型
 
 

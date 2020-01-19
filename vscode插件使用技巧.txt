@@ -1,0 +1,11 @@
+1.快速编辑
+	1. 新建一个html文件
+	2. 首行输入 ! 回车
+
+2.运行html界面
+	1. 安装插件open in browers
+	2. alt+b 运行html文件
+	3. alt+shift+b切换不同浏览器运行
+
+
+

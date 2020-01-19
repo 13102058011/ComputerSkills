@@ -2,7 +2,7 @@
 
 2.  多行注释			ctrl + shift + /
 
-3.  移动行			alt+up/down
+3.  移动行			alt + up/down
 
 4.  显示/隐藏左侧目录栏 	ctrl + b
 

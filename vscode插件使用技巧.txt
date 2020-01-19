@@ -14,4 +14,8 @@
 	4. Beautify file 
 	5. 选择你要格式化的代码类型
 
+4.live server
+	1. 安装插件live server
+	2. 在项目文件中右键选择Open Live Server
+	3. 保存文件即可在浏览器中同步
 
